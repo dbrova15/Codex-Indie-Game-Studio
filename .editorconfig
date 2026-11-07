@@ -1,0 +1,17 @@
+root = true
+
+[*]
+charset = utf-8
+insert_final_newline = true
+
+[/README.md]
+end_of_line = lf
+
+[/INSTALL.md]
+end_of_line = lf
+
+[/EXAMPLES.md]
+end_of_line = lf
+
+[/LIMITATIONS.md]
+end_of_line = lf

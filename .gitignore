@@ -1,0 +1,49 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+auth.json
+credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local Codex profiles, service specs and publication audit
+/.codex/
+/.agents/
+/.specs/
+/github-publication-evidence/
+/usage-sandbox/
+/usage-evidence/
+/native-plugin-sandbox/
+/native-plugin-evidence/
+/pilot/
+/pilot-evidence/
+/analysis-sources/
+
+# Generated artifacts, logs and caches
+/dist/
+/build/
+*.zip
+*.log
+*.tmp
+*.bak
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+.godot/
+
+# Editor and OS state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

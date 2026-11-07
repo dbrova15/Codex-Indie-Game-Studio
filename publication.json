@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0-r1",
+  "publication_date": "2026-11-07",
+  "repository": "https://github.com/dbrova15/Codex-Indie-Game-Studio",
+  "layout": "Standalone Skill at repository root; copy the root into a project .agents/skills/codex-indie-game-studio directory",
+  "source_files_byte_exact": {
+    "SKILL.md": {
+      "bytes": 4881,
+      "sha256": "8E72896F0AFBF4E04324A3D065FA84A31C82E7986C8AC0FD1474617EC9699E1A"
+    },
+    "agents/openai.yaml": {
+      "bytes": 309,
+      "sha256": "672963C95522ABFFD0026B21A3142FBC4679C3F5145BDC1A95BF055FA992700E"
+    },
+    "docs/project-context.md": {
+      "bytes": 2453,
+      "sha256": "167563359BABCD150802064E49D2F1E26DDD67714A9CF4506A4022928A1DFD61"
+    },
+    "docs/provenance.md": {
+      "bytes": 2805,
+      "sha256": "226C782174BCB6BD48656509F2E8D7BD222925B5106FF6D7758E721508642FBF"
+    },
+    "docs/qa.md": {
+      "bytes": 5445,
+      "sha256": "8B26A27D55F71490B424ACE2760A6DEDFC156E612B3CD5ED521A3FF4A042E63D"
+    },
+    "licenses/Codex-Game-Studio-LICENSE": {
+      "bytes": 1066,
+      "sha256": "6ECC068715C0EDFFC4BC21E5DCA450803E0A45AF145F72221DA23D14E7588359"
+    },
+    "metadata/checksums.sha256": {
+      "bytes": 919,
+      "sha256": "941EEDAE15594B5DCA956711A6F0209F5C95FF520BD977FAD248AF0CAAE3A308"
+    },
+    "metadata/file-inventory.csv": {
+      "bytes": 878,
+      "sha256": "4ABA56E039DBEF01BAF91A03A4E9BE9BF0934AEBF19CEA895F44836C872C1FD0"
+    },
+    "licenses/godot-game-dev-studio/LICENSE": {
+      "bytes": 7652,
+      "sha256": "E3A994D82E644B03A792A930F574002658412F62407F5FEE083F2555C5F23118"
+    },
+    "licenses/godot-game-dev-studio/NOTICE.md": {
+      "bytes": 3057,
+      "sha256": "4F9D44E6AF60CE57548CF94BA4DC2989D65114FD7747874E844074B8B6BBFA57"
+    }
+  },
+  "source_native_ZIP_SHA256": "4A1CC3D4E4EB0E338243FAF216A09E4843A04414186A81A36FE5AC9D37D1F1F7",
+  "source_standalone_ZIP_SHA256": "E1826818E91A95281A997BF04E37CFE161FFB919A1547D73781B8452DF98CD8C",
+  "Q04": "NOT MET",
+  "user_observations": "Skill selection and trial response shown in user screenshots; screenshots and private transcripts are not published. Full source-read/behavior verification not claimed."
+}

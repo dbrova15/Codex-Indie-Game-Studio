@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Indie Game Studio"
+  short_description: "Godot: сцени, GDScript, Inspector і перевірки"
+  default_prompt: "Використай $codex-indie-game-studio для роботи з цим Godot-проєктом за його чинними правилами."
